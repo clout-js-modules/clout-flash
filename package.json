@@ -1,0 +1,27 @@
+{
+  "name": "clout-flash",
+  "version": "0.0.1",
+  "description": "Flash message middleware module for Clout-JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clout-js-modules/clout-flash.git"
+  },
+  "keywords": [
+    "clout",
+    "clout-js",
+    "module",
+    "flash",
+    "cookie",
+    "express"
+  ],
+  "author": "Muhammad Dadu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clout-js-modules/clout-flash/issues"
+  },
+  "homepage": "https://github.com/clout-js-modules/clout-flash#readme"
+}
